@@ -1,3 +1,4 @@
+import "./src/register.mjs";
 import { routes } from "./src/routes.mjs";
 
 async function onHashChange() {
